@@ -35,6 +35,10 @@ This project delivers a **comprehensive sales analytics dashboard** for mobile s
 This Power BI dashboard project was developed for learning and portfolio purposes. The dataset used here is either sample-based or anonymized for demonstration.  
 Feel free to use it for educational reference or inspiration for your own dashboards.
 ---
+## 🔗 Live Power BI Report
+You can explore the dashboard online here:
+👉 (https://app.powerbi.com/view?r=eyJrIjoiNGI2OWQzZWUtNWNjYS00YzE2LWJiODQtNWM0Yjc2YWI2YzBkIiwidCI6ImIxN2MwZGJjLWZkMDktNDQxOS04NWZmLWIzYzJjMGU4ZDYzMiJ9)
+---
 ## 📬 Contact
 - 📧 Email: [biswarup643@gmail.com](mailto:biswarup643@gmail.com)  
 - 🔗 LinkedIn: [www.linkedin.com/in/biswarup-das-b36ab7340](www.linkedin.com/in/biswarup-das-b36ab7340)
